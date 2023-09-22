@@ -1,0 +1,36 @@
+#current{
+    background-color:darkgoldenrod
+}
+.first{
+    background-color:rgb(248, 248, 153)
+}
+body{
+    background-color:rgba(165, 238, 238, 0.726)
+}
+h1{
+    color:rgb(241, 64, 94)
+}
+#powerbook{
+    background-color:rgb(240, 240, 79)
+}
+#ibook{
+    background-color:yellow
+}
+#unibody{
+    background-color:rgb(255, 183, 0)
+}
+.header{
+    color:red;
+    font-size:40px;
+    font-family:fantasy;
+    text-align:center;
+}
+#table{
+    color:blue;
+}
+.main{
+    text-align:center;
+}
+.header:hover{
+    color:skyblue
+}
